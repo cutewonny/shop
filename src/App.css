@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.JumboTron {
+  background-color: rgba(214, 211, 211, 0.918);
+  color: rgb(32, 18, 18);
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 1000;
+  font-size: 24px;
+}
+.backGround {
+  background-image: url("./background.jpg");
+  background-size: cover;
+}
